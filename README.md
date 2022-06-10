@@ -41,10 +41,3 @@ I am a full stack web developer and mostly I am inspired on web coding. I’m qu
 
 <a href="https://github.com/Karan-Singh-G" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Singh-G&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Karan-Singh-G/NDTV_Clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Karan-Singh-G&repo=NDTV_Clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Karan-Singh-G/TeamDermStores" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Karan-Singh-G&repo=TeamDermStores&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Karan-Singh-G/Sephoraclone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Karan-Singh-G&repo=Sephoraclone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>

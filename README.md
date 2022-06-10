@@ -39,5 +39,5 @@ I am a full stack web developer and mostly I am inspired on web coding. I’m qu
 
 <a href="http://www.github.com/Karan-Singh-G"><img src="https://github-readme-stats.vercel.app/api?username=Karan-Singh-G&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Karan-Singh-G's GitHub stats" /></a>
 
-<a href="https://github.com/Karan-Singh-G" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-Singh-G&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
